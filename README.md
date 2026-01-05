@@ -25,5 +25,11 @@ This repository contains a manual QA testing project performed on the Demo Web S
 - Passed: 21
 - Failed: 6
 
+  
+## Defect Summary
+- Total Defects: 6
+- High Severity: 3
+- Medium Severity: 3
+
 ## Conclusion
 The project demonstrates end-to-end manual testing activities, including test design, execution, defect identification, and reporting for a web-based e-commerce application.
