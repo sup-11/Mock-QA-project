@@ -1,0 +1,1 @@
+Defect reports with screenshots
